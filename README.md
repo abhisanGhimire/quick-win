@@ -5,12 +5,13 @@ Get the dopamine hit, then go back to what matters.
 
 **Play:** https://abhisanghimire.github.io/quick-win/ (add to your phone's home screen)
 
+## How it works
+- **Today's combo:** one *Focus* game + one *Chill* game, ~2 minutes. Shuffle if you don't fancy it, or pick a single game.
+- **7 games:** Focus = Orb Tap, Number Chase, Colour Match, Pattern Memory. Chill = Bubble Pop, Breathe, Sparkle Garden.
+- **Unlocks:** XP unlocks new games and colour themes (Ocean, Sunset, Forest, Paper). A bar always shows what's next.
+- **Hard stop:** 3 wins a day, then it tells you to go use the momentum.
+
 ## Why it works for ADHD brains
-- **Hard stop** – 3 sessions per day max, no endless scroll.
-- **Instant feedback** – sounds, vibration, floating points, confetti.
-- **No fail state** – mistakes only reset your combo, never punish.
-- **Variety** – tap orbs, order numbers 1→9, match ink colour (Stroop).
-- **Real achievement** – XP, stars, daily streak, unlockable badges.
-- **Exit ramp** – finishing screen nudges you back to real work.
+- Instant feedback (sound, vibration, confetti), no fail states, variety, real progress (XP, stars, streaks, badges), and a clear "back to work" exit.
 
 No build, no dependencies: static HTML + localStorage. Works offline.
